@@ -55,7 +55,7 @@ h1, h3 {
 }
 
 /* Lists */
-ol, ul {
+ol.custom, ul.custom {
     list-style: none;
 }
 ol, ul, li {
