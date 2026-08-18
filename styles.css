@@ -50,6 +50,21 @@ h2 {
     font-style: italic;
     font-weight: 500;
 }
+h1, h3 {
+    color: #9D0759;
+}
+
+/* Lists */
+ol, ul {
+    list-style: none;
+}
+ol, ul, li {
+    text-align: left;
+}
+li {
+    padding: 5px;
+}
+
  /* Images */
 img {
     height: 300px;
